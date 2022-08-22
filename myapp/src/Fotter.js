@@ -1,3 +1,4 @@
+
 import { waitForElementToBeRemoved } from "@testing-library/react";
 import React from "react";
 
@@ -15,3 +16,5 @@ class Fotter extends React.Component {
 }
 
 export default Fotter;
+
+
