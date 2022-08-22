@@ -7,11 +7,7 @@ class App extends React.Component {
   render() {
     return(
       <div>
-        <header>
-          <h1>Animals </h1>
-          
-
-        </header>
+        
 
         <main>
           <h2>"id": 1</h2>
@@ -19,7 +15,7 @@ class App extends React.Component {
       src="http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg"
       alt="new"
       />
-      <p>"title": "UniWhal"</p>
+      <p></p>
       <p>"description": "A unicorn and a narwhal nuzzling their horns"</p>
       <p> "keyword": "narwhal",</p>
       <p>"horns": 1</p>
@@ -49,9 +45,7 @@ class App extends React.Component {
 
         </main>
 
-        <footer>
-          <p>Ahmad yaghi</p>
-        </footer>
+        
       </div>
 
     )
